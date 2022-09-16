@@ -3,4 +3,12 @@
 Datamoon is a platform for finding the Datasets and processing them to become the benefit of businesses, companies, and science. In this project, I designed all of the necessary pages and research all the things with my team to fill the content of the website
 
 I have made the UI/UX Design using Figma
-The Feature will be made to be:
+and The Feature will be made like this:
+
+## Register
+
+![Register Datamoon](./Register.png)
+
+## Login
+
+![Login Datamoon](./Login.png)
