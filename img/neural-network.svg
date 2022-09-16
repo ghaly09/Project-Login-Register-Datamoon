@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="320px" viewBox="0 0 320 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Neural_Network</title>
+    <desc>Created with Sketch.</desc>
+    <g id="2019_0318" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6.Kaggle_Homepage" transform="translate(-800.000000, -56.000000)">
+            <g id="Neural_Network" transform="translate(800.000000, 56.000000)">
+                <g transform="translate(160.000000, 160.000000) rotate(-270.000000) translate(-160.000000, -160.000000) ">
+                    <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="320" height="320"></rect>
+                    <path d="M6.33328596,6.4970513 L213.592031,6.4970513" id="Path-3" stroke="#DEDFE0" stroke-width="2" stroke-dasharray="2.579999923706055" fill-rule="nonzero"></path>
+                    <path d="M6.28121471,163.870968 C6.28121471,165.591398 75.35322,113.109256 213.497231,6.42454166" id="Path-6" stroke="#DEDFE0" stroke-width="2" stroke-dasharray="2.579999923706055" fill-rule="nonzero"></path>
+                    <path d="M6.41924947,6.46190213 C6.41924947,6.46190213 75.5578753,109.020394 213.835127,314.137377" id="Path-7" stroke="#DEDFE0" stroke-width="2" stroke-dasharray="2.579999923706055" fill-rule="nonzero"></path>
+                    <path d="M6.29226202,163.870968 C6.29226202,163.870968 75.3581209,213.801876 213.489839,313.663692" id="Path-8" stroke="#DEDFE0" stroke-width="2" stroke-dasharray="2.579999923706055" fill-rule="nonzero"></path>
+                    <path d="M6.38390573,313.586231 L213.526087,6.50321916" id="Path-9" stroke="#DEDFE0" stroke-width="2" stroke-dasharray="2.579999923706055" fill-rule="nonzero"></path>
+                    <path d="M6.37685835,313.6106 C6.62147777,313.6106 75.6385296,313.6106 213.428014,313.6106" id="Path-11" stroke="#DEDFE0" stroke-width="2" stroke-dasharray="2.579999923706055" fill-rule="nonzero"></path>
+                    <path d="M6.4284294,6.3715843 C6.4284294,6.3715843 74.3925427,40.9316011 210.320769,110.051635" id="Path-12" stroke="#DEDFE0" stroke-width="2" stroke-dasharray="2.579999923706055" fill-rule="nonzero"></path>
+                    <path d="M6.37218108,6.34248022 L210.315659,210.136644" id="Path-13" stroke="#DEDFE0" stroke-width="2" stroke-dasharray="2.579999923706055" fill-rule="nonzero"></path>
+                    <path d="M6.29454963,163.870968 L213.252927,210.41271" id="Path-14" stroke="#DEDFE0" stroke-width="2" stroke-dasharray="2.579999923706055" fill-rule="nonzero"></path>
+                    <path d="M6.35070008,163.870968 L213.551918,109.753609" id="Path-15" stroke="#DEDFE0" stroke-width="2" stroke-dasharray="2.579999923706055" fill-rule="nonzero"></path>
+                    <path d="M6.33205355,313.662067 C6.33205355,313.662067 74.2275394,245.894085 210.018511,110.35812" id="Path-16" stroke="#DEDFE0" stroke-width="2" stroke-dasharray="2.579999923706055" fill-rule="nonzero"></path>
+                    <path d="M6.38177481,313.856572 L210.702407,210.624001" id="Path-17" stroke="#DEDFE0" stroke-width="2" stroke-dasharray="2.579999923706055" fill-rule="nonzero"></path>
+                    <path d="M210.396862,7.30290798 L312.767754,164.024783" id="Path-18" stroke="#DEDFE0" stroke-width="2" stroke-dasharray="2.579999923706055" fill-rule="nonzero"></path>
+                    <path d="M211.139825,110.268288 L312.767754,164.340781" id="Path-19" stroke="#DEDFE0" stroke-width="2" stroke-dasharray="2.579999923706055" fill-rule="nonzero"></path>
+                    <path d="M210.168583,210.360103 L312.767754,164.589139" id="Path-20" stroke="#DEDFE0" stroke-width="2" stroke-dasharray="2.579999923706055" fill-rule="nonzero"></path>
+                    <path d="M210.174924,313.643594 L312.767754,164.057878" id="Path-21" stroke="#DEDFE0" stroke-width="2" stroke-dasharray="2.579999923706055" fill-rule="nonzero"></path>
+                    <circle id="Oval" stroke="#DEDFE0" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="6.4516129" cy="6.4516129" r="5.4516129"></circle>
+                    <circle id="Oval" stroke="#DEDFE0" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="6.4516129" cy="163.870968" r="5.4516129"></circle>
+                    <circle id="Oval" stroke="#DEDFE0" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="6.4516129" cy="313.548387" r="5.4516129"></circle>
+                    <circle id="Oval" stroke="#DEDFE0" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="210.322581" cy="6.4516129" r="5.4516129"></circle>
+                    <circle id="Oval" stroke="#DEDFE0" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="210.322581" cy="109.677419" r="5.4516129"></circle>
+                    <circle id="Oval" stroke="#DEDFE0" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="313.189966" cy="163.870968" r="5.4516129"></circle>
+                    <circle id="Oval" stroke="#DEDFE0" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="210.322581" cy="210.322581" r="5.4516129"></circle>
+                    <circle id="Oval" stroke="#DEDFE0" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="210.322581" cy="313.548387" r="5.4516129"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

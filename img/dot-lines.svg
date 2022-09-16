@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="320px" viewBox="0 0 320 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Dot_Lines</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="320" height="320"></rect>
+    </defs>
+    <g id="2019_0318" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6.Kaggle_Homepage" transform="translate(-1120.000000, -56.000000)">
+            <g id="Dot_Lines" transform="translate(1120.000000, 56.000000)">
+                <g id="Group-8" transform="translate(160.000000, 160.000000) rotate(-360.000000) translate(-160.000000, -160.000000) ">
+                    <g id="Group-7">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Rectangle" fill-rule="nonzero"></g>
+                        <path d="M1.29032258,7.10542736e-15 L1.29032258,320" id="Line-2" stroke="#DEDFE0" stroke-width="2" stroke-linecap="square" stroke-dasharray="0,6" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        <path d="M29.6774194,7.10542736e-15 L29.6774194,320" id="Line-2" stroke="#DEDFE0" stroke-width="2" stroke-linecap="square" stroke-dasharray="0,6" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        <path d="M58.0645161,7.10542736e-15 L58.0645161,320" id="Line-2" stroke="#DEDFE0" stroke-width="2" stroke-linecap="square" stroke-dasharray="0,6" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        <path d="M89.0322581,7.10542736e-15 L89.0322581,320" id="Line-2" stroke="#DEDFE0" stroke-width="2" stroke-linecap="square" stroke-dasharray="0,6" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        <path d="M117.419355,7.10542736e-15 L117.419355,320" id="Line-2" stroke="#DEDFE0" stroke-width="2" stroke-linecap="square" stroke-dasharray="0,6" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        <path d="M145.806452,7.10542736e-15 L145.806452,320" id="Line-2" stroke="#DEDFE0" stroke-width="2" stroke-linecap="square" stroke-dasharray="0,6" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        <path d="M174.193548,7.10542736e-15 L174.193548,320" id="Line-2" stroke="#DEDFE0" stroke-width="2" stroke-linecap="square" stroke-dasharray="0,6" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        <path d="M202.580645,7.10542736e-15 L202.580645,320" id="Line-2" stroke="#DEDFE0" stroke-width="2" stroke-linecap="square" stroke-dasharray="0,6" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        <path d="M230.967742,7.10542736e-15 L230.967742,320" id="Line-2" stroke="#DEDFE0" stroke-width="2" stroke-linecap="square" stroke-dasharray="0,6" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        <path d="M261.935484,7.10542736e-15 L261.935484,320" id="Line-2" stroke="#DEDFE0" stroke-width="2" stroke-linecap="square" stroke-dasharray="0,6" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        <path d="M290.322581,7.10542736e-15 L290.322581,320" id="Line-2" stroke="#DEDFE0" stroke-width="2" stroke-linecap="square" stroke-dasharray="0,6" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        <path d="M318.709677,7.10542736e-15 L318.709677,320" id="Line-2" stroke="#DEDFE0" stroke-width="2" stroke-linecap="square" stroke-dasharray="0,6" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                    </g>
+                    <rect id="Rectangle" fill="#DEDFE0" fill-rule="nonzero" x="113.548387" y="75.483871" width="7.74193548" height="7.74193548" rx="3.87096774"></rect>
+                    <rect id="Rectangle" fill="#DEDFE0" fill-rule="nonzero" x="54.1935484" y="49.0322581" width="7.74193548" height="7.74193548" rx="3.87096774"></rect>
+                    <rect id="Rectangle" fill="#DEDFE0" fill-rule="nonzero" x="170.322581" y="261.290323" width="7.74193548" height="7.74193548" rx="3.87096774"></rect>
+                    <rect id="Rectangle" fill="#DEDFE0" fill-rule="nonzero" x="258" y="50" width="7.74193548" height="7.74193548" rx="3.87096774"></rect>
+                    <rect id="Rectangle" fill="#DEDFE0" fill-rule="nonzero" x="286.451613" y="301.935484" width="7.74193548" height="7.74193548" rx="3.87096774"></rect>
+                    <rect id="Rectangle" fill="#DEDFE0" fill-rule="nonzero" x="26" y="158" width="7.74193548" height="7.74193548" rx="3.87096774"></rect>
+                    <rect id="Rectangle" fill="#DEDFE0" fill-rule="nonzero" x="141.935484" y="149.677419" width="7.74193548" height="7.74193548" rx="3.87096774"></rect>
+                    <rect id="Rectangle" fill="#DEDFE0" fill-rule="nonzero" x="227.096774" y="255.483871" width="7.74193548" height="7.74193548" rx="3.87096774"></rect>
+                    <rect id="Rectangle" fill="#DEDFE0" fill-rule="nonzero" x="86" y="198" width="7.74193548" height="7.74193548" rx="3.87096774"></rect>
+                    <rect id="Rectangle" fill="#DEDFE0" fill-rule="nonzero" x="198" y="142" width="7.74193548" height="7.74193548" rx="3.87096774"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
